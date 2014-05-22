@@ -1,6 +1,6 @@
 {
   "name": "async-progress",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Progess reporting for async module functions",
   "main": "index.js",
   "scripts": {
